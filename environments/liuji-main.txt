@@ -1,0 +1,7 @@
+# CPython 3.12.10; S26 main-chain versions, Windows 11 x64.
+numpy==2.4.3
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.8.0
+joblib==1.5.3
+matplotlib==3.10.8

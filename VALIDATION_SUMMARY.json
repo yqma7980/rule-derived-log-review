@@ -1,0 +1,85 @@
+{
+  "revision": "S31 software-only public package preparation",
+  "verified_at": "2026-11-02T20:46:10.563395+08:00",
+  "status": "PASS",
+  "public_release": false,
+  "publication_status": "PREPARED_PUBLICATION_PENDING",
+  "unit_and_interface_tests": {
+    "tests": 42,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "extracted_package_repeat": {
+    "tests": 42,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "new_RF_fits": 0,
+  "new_temperature_fits": 0,
+  "new_scientific_replay": false,
+  "baseline_python_files_byte_identical": 42,
+  "new_interface_files": [
+    "tools/verify_synthetic.py"
+  ],
+  "baseline_environment_files_byte_identical": 11,
+  "fresh_environment_installation": false,
+  "execution_environment": {
+    "python": "3.12.10",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "packages": {
+      "numpy": "2.4.3",
+      "pandas": "2.3.3",
+      "scipy": "1.17.1",
+      "scikit-learn": "1.8.0",
+      "joblib": "1.5.3",
+      "matplotlib": "3.10.8",
+      "threadpoolctl": "3.6.0",
+      "python-dateutil": "2.9.0.post0",
+      "six": "1.17.0",
+      "pytz": "2026.2",
+      "tzdata": "2025.3"
+    },
+    "fresh_installation": false
+  },
+  "pip_check_exit_code": 0,
+  "main_environment_check": "PASS",
+  "synthetic": {
+    "rows": 200,
+    "features": 26,
+    "budgets": 4,
+    "constant_controls": 3,
+    "stride_1_changed_rows": 0,
+    "independent_scalar_rule_evaluations": 11,
+    "fresh_fixture_bytes_equal_preserved_fixture": true,
+    "missing_and_corrupt_fixture_rejected": true
+  },
+  "liuji_synthetic": {
+    "rows": 240,
+    "wells": 3,
+    "paper_population_gate_expected_to_fail": true,
+    "model_fitting": false
+  },
+  "source_unchanged": true,
+  "network_and_RF_fit_guards_enabled": true,
+  "research_tables_bundled": false,
+  "third_party_binaries_bundled": false,
+  "historical_full_table_readback": "NOT_RUN; research tables excluded; see docs/EXCLUDED_MATERIALS.md",
+  "inherited_scientific_evidence": {
+    "revision": "S26",
+    "RF_fits": 78,
+    "temperature_fits": 13,
+    "checks": 914,
+    "failed_checks": 0,
+    "saved_arrays": 394,
+    "differing_array_elements": 0,
+    "scope": "Historical evidence, not executed in S31"
+  },
+  "remaining_boundaries": [
+    "Public repository/tag/access verification",
+    "Fresh clean installation and cross-platform exact replay not tested",
+    "Controlled-input access mechanism is separate",
+    "No new end-to-end scientific replay or RF fitting"
+  ]
+}

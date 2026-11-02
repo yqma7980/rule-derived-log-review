@@ -1,0 +1,21 @@
+{
+  "protocol": "liuji-main-results-v1",
+  "raw_rows": 101639,
+  "eligible_rows": 101615,
+  "excluded_rows": 24,
+  "wells": 10,
+  "spatial_blocks": 3,
+  "segments": 14,
+  "features": 26,
+  "matched_features": 33,
+  "native_step_m": 0.05,
+  "gap_threshold_m": 0.075,
+  "strides": [2, 4, 5],
+  "all_starting_phases": true,
+  "seed": 42,
+  "matched_negative_ratio": 3,
+  "budgets": [0.05, 0.10, 0.20],
+  "primary_budget": 0.10,
+  "rf": {"n_estimators": 100, "max_depth": 10, "max_features": "sqrt", "min_samples_leaf": 1, "min_samples_split": 5, "class_weight": "balanced_subsample"},
+  "fit_counts": {"class": 13, "calibration": 13, "phases": 13, "triage": 13, "paired": 0, "matched": 26}
+}

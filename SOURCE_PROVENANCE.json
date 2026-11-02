@@ -1,0 +1,292 @@
+[
+  {
+    "path": ".gitignore",
+    "source": "S24/.gitignore",
+    "source_sha256": "182d3398c6438ff9c6eaaf29c4763492215e217cc34e8d8fdf1403fb2d4cc38a"
+  },
+  {
+    "path": "LICENSE_STATUS.md",
+    "source": "S24/LICENSE_STATUS.md",
+    "source_sha256": "51670587fdaf2d7dc877b8ca9cf8d13a06c25b9b052ee29dfc0f0a6cc547b2f2"
+  },
+  {
+    "path": "README.md",
+    "source": "S24/README.md",
+    "source_sha256": "6b20b873b0cddf86434a6cc78ae58cf0c113258ea21cd673a066f6a3f1faac04"
+  },
+  {
+    "path": "requirements-force-download.txt",
+    "source": "S24/requirements-force-download.txt",
+    "source_sha256": "dac573a622b92ac0ecc95b0baf35b15e86187cd77bf8b091cf91c44ae5524edd"
+  },
+  {
+    "path": "requirements.txt",
+    "source": "S24/requirements.txt",
+    "source_sha256": "416e52b61f4a487ea991927c309bf3be998cb7ad1b78587ea055c67e95483fe4"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "source": "S24/THIRD_PARTY_NOTICES.md",
+    "source_sha256": "4a11e1ce13691edbaab38eb1d1f2a52c03b3c5b4f461f4f92f01898e1494ffee"
+  },
+  {
+    "path": "docs/LIUJI_COVERAGE.md",
+    "source": "S24/docs/LIUJI_COVERAGE.md",
+    "source_sha256": "44ff71c4dd528a8bffaf346295b0269e5ae11743abc3d19bdad6e5102cd68efb"
+  },
+  {
+    "path": "docs/PUBLIC_WORKFLOWS.md",
+    "source": "S24/docs/PUBLIC_WORKFLOWS.md",
+    "source_sha256": "1a16b3254a68fe09803734a5cd7d5c198f928960a80e4b7bc2b0a7626a20e4f3"
+  },
+  {
+    "path": "docs/USER_GUIDE.md",
+    "source": "S24/docs/USER_GUIDE.md",
+    "source_sha256": "38e3ef568aeffbdd50210bb55fd261ded7788457e5ed9e3f1c36024632a9d168"
+  },
+  {
+    "path": "docs/VALIDATION_SCOPE.md",
+    "source": "S24/docs/VALIDATION_SCOPE.md",
+    "source_sha256": "0e68cde95d2200a951b28879b05437b1d2205c021ca156792d97f43c19e69926"
+  },
+  {
+    "path": "examples/run_synthetic.py",
+    "source": "S24/examples/run_synthetic.py",
+    "source_sha256": "746208373efa8f9d75c2c09902de3701dd725086298eae2bf2d3d4c57703cddd"
+  },
+  {
+    "path": "tests/independent_oracles.py",
+    "source": "S24/tests/independent_oracles.py",
+    "source_sha256": "1fbb19d37ed411c7dfc634248c381104d603a1685dbd2036fc6e9e22819db00b"
+  },
+  {
+    "path": "tests/test_candidate.py",
+    "source": "S24/tests/test_candidate.py",
+    "source_sha256": "b1791b82706d40b25d54f5d93eab31506a290a437e1189d596d9b542ab2c75da"
+  },
+  {
+    "path": "tests/test_user_flow.py",
+    "source": "S24/tests/test_user_flow.py",
+    "source_sha256": "ad5545a88e7a1509ec14c1a5b540aa6ea91072078d89377a84ffd9e101d97b3b"
+  },
+  {
+    "path": "third_party/KGS_terms_of_use.html",
+    "source": "S24/third_party/KGS_terms_of_use.html",
+    "source_sha256": "4d35374b51a93837798844d629accf17c4e8ec22173d80c36164a2f43e63b4b4"
+  },
+  {
+    "path": "tools/verify_independent.py",
+    "source": "S24/tools/verify_independent.py",
+    "source_sha256": "66f568bc39c642c98c1d72abd2d2de2b18ccf9f11916bd31067fc9576ca73846"
+  },
+  {
+    "path": "reference_results/kgs/paired_differences.csv",
+    "source": "S24/reference_results/kgs/paired_differences.csv",
+    "source_sha256": "fb2e93a48da13352f94b2e78ff374fee201830cc8a1cb23eeb9e5c1489503029"
+  },
+  {
+    "path": "reference_results/kgs/summary_independent.csv",
+    "source": "S24/reference_results/kgs/summary_independent.csv",
+    "source_sha256": "0970493ff7d6d0baa7c7f73fb52e155757eb12804fa40128d2d8f21c70d58c24"
+  },
+  {
+    "path": "reference_results/kgs/summary_original.csv",
+    "source": "S24/reference_results/kgs/summary_original.csv",
+    "source_sha256": "039a8671a2b6558c045ae0d8806793c6fbedcebb0f2c450f6a6d852b51f0f236"
+  },
+  {
+    "path": "workflows/force/ANALYSIS_PROTOCOL.md",
+    "source": "S24/workflows/force/ANALYSIS_PROTOCOL.md",
+    "source_sha256": "b91d150661f2fb667e30fff1371721689b791e48ca11ca94dd3cd93eb90f69fe"
+  },
+  {
+    "path": "workflows/kgs/requirements.original.txt",
+    "source": "S24/workflows/kgs/requirements.original.txt",
+    "source_sha256": "95f3be5f14b1c5df3429e677d5d4b67fbef46373ddd55d2ee791e1ee4b8e2e62"
+  },
+  {
+    "path": "workflows/force/code/acquire_force.py",
+    "source": "S24/workflows/force/code/acquire_force.py",
+    "source_sha256": "2d50b92baecbb4fa27902b5ae93eef334cb4420fcca692d390968c3ddcc10dd1"
+  },
+  {
+    "path": "workflows/force/code/example_synthetic.py",
+    "source": "S24/workflows/force/code/example_synthetic.py",
+    "source_sha256": "149b06f3f8ee7cbd28b131128b214e1099de0b3cbaa3514d130a0cb4609c7694"
+  },
+  {
+    "path": "workflows/force/code/external_core.py",
+    "source": "S24/workflows/force/code/external_core.py",
+    "source_sha256": "4920889944815083ff38b6f1c6421c27f55af0ebc941632d2f004a6d0f50b69b"
+  },
+  {
+    "path": "workflows/force/code/prepare_workspace.py",
+    "source": "S24/workflows/force/code/prepare_workspace.py",
+    "source_sha256": "918fe427842ac6bf48133ad63d87df9a42cdf16334f4c4bef42852adb95d63ae"
+  },
+  {
+    "path": "workflows/force/code/requirements.txt",
+    "source": "S24/workflows/force/code/requirements.txt",
+    "source_sha256": "85aea990bcdff9fc72744776e361a3b33f83107a57268e574d39d1d189f65921"
+  },
+  {
+    "path": "workflows/force/code/review_priority.py",
+    "source": "S24/workflows/force/code/review_priority.py",
+    "source_sha256": "0d58cd0995636493aaef0f5e8e235307169b99abcf836ad7d56b77ed627e0630"
+  },
+  {
+    "path": "workflows/force/code/run_external.py",
+    "source": "S24/workflows/force/code/run_external.py",
+    "source_sha256": "0d6319c20b5b0f3afa95b001b1aa8966b9834a83b9a91021a7c34afa48d716d9"
+  },
+  {
+    "path": "workflows/force/code/verify_counts.py",
+    "source": "S24/workflows/force/code/verify_counts.py",
+    "source_sha256": "9494f5fd0e72c63dc2475321755776dec87ce8679060c42fa662d1c69b95d1fe"
+  },
+  {
+    "path": "workflows/force/code/verify_external.py",
+    "source": "S24/workflows/force/code/verify_external.py",
+    "source_sha256": "835381f6a18dff98c3d1dac4f41b90f839f8b1969f4ab64b63466dcffb6c283e"
+  },
+  {
+    "path": "workflows/force/qa/SOURCE_DOWNLOAD.json",
+    "source": "S24/workflows/force/qa/SOURCE_DOWNLOAD.json",
+    "source_sha256": "b90ab0031cc7c1c50b01890b1d367257138bbffec1b88cdd91f935f9db77a14c"
+  },
+  {
+    "path": "workflows/force/results/force_native_port_disagreement.csv",
+    "source": "S24/workflows/force/results/force_native_port_disagreement.csv",
+    "source_sha256": "438fc7438b0e5f1d427c28028517951e52d5bdaab4cea317f82af51bd13fbd1f"
+  },
+  {
+    "path": "workflows/force/results/force_paired_counts.csv",
+    "source": "S24/workflows/force/results/force_paired_counts.csv",
+    "source_sha256": "0a7c707eb91c4242810287068eabe939244851b6615e059624f67d789370a338"
+  },
+  {
+    "path": "workflows/force/results/force_paired_summary.csv",
+    "source": "S24/workflows/force/results/force_paired_summary.csv",
+    "source_sha256": "687dee5f263c247c8280e1be943d7ae7afb12b140ab12c219675430791fa50d2"
+  },
+  {
+    "path": "workflows/force/sources/DATASET_SELECTION.md",
+    "source": "S24/workflows/force/sources/DATASET_SELECTION.md",
+    "source_sha256": "05f0484eff962b54b28a46ba48da2c44804fb9a60325d65995c83b30916d5ab5"
+  },
+  {
+    "path": "workflows/force/code/inherited/audit_core.py",
+    "source": "S24/workflows/force/code/inherited/audit_core.py",
+    "source_sha256": "55b6fd49f38955a27a180560599c0e6ee1f0aa4a6e2ca098cef92abb1dea8540"
+  },
+  {
+    "path": "workflows/force/code/inherited/historical_rule.py",
+    "source": "S24/workflows/force/code/inherited/historical_rule.py",
+    "source_sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75"
+  },
+  {
+    "path": "workflows/kgs/code/external_core.py",
+    "source": "S24/workflows/kgs/code/external_core.py",
+    "source_sha256": "4920889944815083ff38b6f1c6421c27f55af0ebc941632d2f004a6d0f50b69b"
+  },
+  {
+    "path": "workflows/kgs/code/external_review_trial.py",
+    "source": "S24/workflows/kgs/code/external_review_trial.py",
+    "source_sha256": "3c24f2ad9f4145461a67265e9c66c1faf73a9ebbbe5bbf601fa3add3b5819c64"
+  },
+  {
+    "path": "workflows/kgs/code/review_priority.py",
+    "source": "S24/workflows/kgs/code/review_priority.py",
+    "source_sha256": "0d58cd0995636493aaef0f5e8e235307169b99abcf836ad7d56b77ed627e0630"
+  },
+  {
+    "path": "workflows/kgs/code/verify_external_trial.py",
+    "source": "S24/workflows/kgs/code/verify_external_trial.py",
+    "source_sha256": "d0c2902f298ec7cfd4189c13167f3d34f273b3c60d328c8e5ebac3e8c3e68a94"
+  },
+  {
+    "path": "workflows/kgs/source_tools/prepare_kgs.py",
+    "source": "S24/workflows/kgs/source_tools/prepare_kgs.py",
+    "source_sha256": "41d0188147b55605bdee566055dd48f90f032c78409ac0e2373eb00c9d7f59ec"
+  },
+  {
+    "path": "workflows/kgs/source_tools/README_INPUTS.txt",
+    "source": "S24/workflows/kgs/source_tools/README_INPUTS.txt",
+    "source_sha256": "f624f88771e35b87d74055e20803caa1044c8f2a4c556bba989b736c67b276ce"
+  },
+  {
+    "path": "workflows/kgs/source_tools/scan_kgs_archive.py",
+    "source": "S24/workflows/kgs/source_tools/scan_kgs_archive.py",
+    "source_sha256": "3231b55261472056f77d323bb3e6d76254e00c0ddd94040b056603843407f8e2"
+  },
+  {
+    "path": "workflows/liuji/source/adapters/_diag_mechanism_intervals.py",
+    "source": "S26/sources/adapters/_diag_mechanism_intervals.py",
+    "source_sha256": "5b95eb088e4db67e4906444a03f7317fbe0be03265932dbb75df0a9eee5d00c8"
+  },
+  {
+    "path": "workflows/liuji/source/adapters/_run_control_export_fixed.py",
+    "source": "S26/sources/adapters/_run_control_export_fixed.py",
+    "source_sha256": "db6adbb2a7d4ab164f54d9fa4c791aa109e11e132b6c9b7a17fb373a91476a8c"
+  },
+  {
+    "path": "workflows/liuji/source/originals/ijcg_analysis/common.py",
+    "source": "S26/sources/originals/ijcg_analysis/common.py",
+    "source_sha256": "de7fab0afbd7403780d02d1a80802ddd1dc3c0528b0eaf1701f8a4b2af13eae5"
+  },
+  {
+    "path": "workflows/liuji/source/originals/ijcg_analysis/nrr_stage_common.py",
+    "source": "S26/sources/originals/ijcg_analysis/nrr_stage_common.py",
+    "source_sha256": "678005bc46759c29eb23b7792bf99262eb28b5d9a1fa8fd97995cca5d6e448b6"
+  },
+  {
+    "path": "workflows/liuji/source/originals/ijcg_analysis/run_nrr_stage1.py",
+    "source": "S26/sources/originals/ijcg_analysis/run_nrr_stage1.py",
+    "source_sha256": "d73af2acd75af7d3783ed53901403593dbf192102c7624a28f1fe742652c6f36"
+  },
+  {
+    "path": "workflows/liuji/source/originals/ijcg_analysis/run_nrr_stage2.py",
+    "source": "S26/sources/originals/ijcg_analysis/run_nrr_stage2.py",
+    "source_sha256": "053f716a2c9888432a644f88b627df25e5ad2938779bd669bda3a7d0691f7e98"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s12/code/audit_core.py",
+    "source": "S26/sources/originals/s12/code/audit_core.py",
+    "source_sha256": "55b6fd49f38955a27a180560599c0e6ee1f0aa4a6e2ca098cef92abb1dea8540"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s12/code/historical_rule.py",
+    "source": "S26/sources/originals/s12/code/historical_rule.py",
+    "source_sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s12/code/legacy_common.py",
+    "source": "S26/sources/originals/s12/code/legacy_common.py",
+    "source_sha256": "de7fab0afbd7403780d02d1a80802ddd1dc3c0528b0eaf1701f8a4b2af13eae5"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s12/scripts/run_analysis.py",
+    "source": "S26/sources/originals/s12/scripts/run_analysis.py",
+    "source_sha256": "6890293a0a7f3bf4265552285d3a263490e62a8a1b93ab8847d85d8436aaed36"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s17/run_s17.py",
+    "source": "S26/sources/originals/s17/run_s17.py",
+    "source_sha256": "0c1b3eee9810d9636f1194433e8c45ca3d7af761af90b9a985e387752afb9c4e"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s6/build_major_revision_evidence.py",
+    "source": "S26/sources/originals/s6/build_major_revision_evidence.py",
+    "source_sha256": "8534a16991858461d8e6a866811ce0f09cf3750ca64241a55324e10c15eaaec7"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s6/build_submission_readiness_evidence.py",
+    "source": "S26/sources/originals/s6/build_submission_readiness_evidence.py",
+    "source_sha256": "7dbf5afca6597b803c6daee96a670c1d89308a9b88ecbd9d805bedaa9c12c705"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s6/operational_rule.py",
+    "source": "S26/sources/originals/s6/operational_rule.py",
+    "source_sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75"
+  }
+]

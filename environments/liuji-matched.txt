@@ -1,0 +1,8 @@
+# Python 3.13.9; S26 matched-chain versions, Windows 11 x64.
+# The verified interpreter was Anaconda; a new environment is not a new acceptance.
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.7.2
+joblib==1.5.2
+matplotlib==3.10.6

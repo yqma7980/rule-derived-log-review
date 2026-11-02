@@ -1,0 +1,9 @@
+{
+  "measurement_csv": "../../../../controlled_inputs/measurement_data.csv",
+  "groups_csv": "../../../../controlled_inputs/well_spatial_blocks_v1.csv",
+  "output_dir": "../../../../liuji_run_new",
+  "protocol": "paper_protocol.json",
+  "python_main": "python",
+  "python_matched": "python-matched",
+  "stage_timeout_seconds": 86400
+}

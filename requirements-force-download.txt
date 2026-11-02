@@ -1,0 +1,7 @@
+# Optional network downloader dependencies; not needed for offline checks.
+-r requirements.txt
+requests==2.33.1
+charset-normalizer==3.4.7
+idna==3.13
+urllib3==2.7.0
+certifi==2026.4.22

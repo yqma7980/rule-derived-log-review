@@ -1,0 +1,15 @@
+{
+  "revision": "MIT license integration 2026-11-02",
+  "baseline": "S30 release candidate",
+  "baseline_manifest_payloads_verified": 86,
+  "python_files_byte_identical": 42,
+  "other_payload_policy": "Only license/status documents and manifest change",
+  "scientific_configuration_and_results_changed": false,
+  "third_party_terms_changed": false,
+  "license_status_consistency": "PASS",
+  "new_model_training": false,
+  "new_scientific_rerun": false,
+  "new_unit_test_run": false,
+  "prior_validation_is_historical": true,
+  "public_repository_created": false
+}

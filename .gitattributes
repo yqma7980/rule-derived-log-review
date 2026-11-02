@@ -1,0 +1,2 @@
+# Preserve the exact file bytes recorded in PACKAGE_MANIFEST.json on every OS.
+* -text

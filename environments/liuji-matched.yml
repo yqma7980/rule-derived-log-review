@@ -1,0 +1,8 @@
+name: rule-logs-liuji-matched
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.9
+  - pip
+  - pip:
+      - -r liuji-matched.txt

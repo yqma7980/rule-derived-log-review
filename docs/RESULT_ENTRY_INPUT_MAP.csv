@@ -1,0 +1,12 @@
+paper_result,entry_stage,input,output,environment,evidence_scope
+Table 5 and Figure 3 Liuji,class then phases,authorized logs and fixed groups,runtime/NRR.../evidence/downsample_phase_aggregate.csv,liuji-main,S26 evidence inherited; S27 interface tested
+Calibration and threshold transfer,calibration,authorized logs and groups,runtime/NRR.../evidence/calibration_fold_audit_gr_den.csv,liuji-main,13 temperature fits in S26; no S27 fitting
+Paired states and channel/context strata,triage then paired,new calibration and triage outputs,paired/results/,liuji-main,S26 evidence inherited
+Calibrated-category review ranking,triage,new probabilities and temperatures,runtime/GAS.../results/,liuji-main,current-run predictions only
+Table 7 and Figure 9 Liuji,matched,new folds and triage; fixed 33 features,matched/,liuji-matched,S26 exact acceptance inherited
+Figure 10 underlying points and selections,triage,new calibrated class model outputs,runtime/GAS.../private/triage_*.npz,liuji-main,illustrative-window publication renderer outside wrapper scope
+FORCE paired/channel/window diagnostics,workflows/force/code/run_external.py,pinned organizer train.zip,results/force_paired_summary.csv and related tables,force,not retrained in S27
+KGS capture and Table 8,workflows/kgs/code/external_review_trial.py,pinned archive prepared CSV,summary.csv and paired_differences.csv,kgs,not retrained in S27
+Synthetic pairing/budget example,examples/run_synthetic.py,generated curves,summary.json and synthetic_points.csv,core environment,no performance claim
+Liuji input/feature example,examples/liuji_input_check.py,generated inputs,summary.json,liuji-main,no fitting; not paper population
+Optional array comparison,tools/compare_arrays.py,two authorized NPZ files,stdout JSON,main environment,read-only; never a generation dependency

@@ -1,0 +1,604 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 87,
+    "sha256": "dc5ddabf3d08af09f59c969166a1b4f28ec60b122a3c41e4050e9af852977ba7",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 361,
+    "sha256": "4143b5232364bde567a5874df57c16375486319e7feb0d22531b25309b04f7a2",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "CODE_PRESERVATION.json",
+    "bytes": 13556,
+    "sha256": "de87ef074f29a9ebdc3aaededeca6f6157e2f454392d4cb4b6579eeca95e47a0",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/ENVIRONMENTS.md",
+    "bytes": 2174,
+    "sha256": "662c4ba7bb4d8ab9d3be3923b374559a5cd541e30eb3edd65c4a6f39aa24d761",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/EXCLUDED_MATERIALS.md",
+    "bytes": 2687,
+    "sha256": "aaff8fb3be125237d6a3437ced54c6ab55eb23f4760b0787c0872f77a1f01452",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/INPUT_SCHEMA.md",
+    "bytes": 1922,
+    "sha256": "34e5feac9bc84318485e780dc07ad56f1c4577cba8046126bdbec0b4da839494",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/LIUJI_COVERAGE.md",
+    "bytes": 2178,
+    "sha256": "ab054901a2d125fd557952b5b0412a91f5f38653531dc5c99dbbac639c128659",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/LIUJI_RUN.md",
+    "bytes": 2478,
+    "sha256": "8c5faba1c84bca007ec49941546e7b059734dbbdb60a91c49b71b6d63a8f6da2",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/PUBLIC_WORKFLOWS.md",
+    "bytes": 7373,
+    "sha256": "015184b92309fbfa4b1ff147c2cad36c0269b52b40273c39cf6d715f80ed5046",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/RELEASE_CHECKLIST.md",
+    "bytes": 1771,
+    "sha256": "632a63b84d8550c8c90bfdf4a2ebbc28fe1a758764ede651d48d916f2231416f",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/RESULT_ENTRY_INPUT_MAP.csv",
+    "bytes": 1822,
+    "sha256": "0cbd6b55da252dbd503d611f1c7c8d3977ded99db9b5c2a3d1d13aaf67ed0c54",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/USER_GUIDE.md",
+    "bytes": 4588,
+    "sha256": "55f651772125ab4d50b0010cc9d2b6f55e8bc3e3a8b8ddff0f46f5c43ffbace7",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "docs/VALIDATION_SCOPE.md",
+    "bytes": 2615,
+    "sha256": "36b1d2b50a95b2d1ccf6c7b6b59b99e04c4c431a120ff15b3881641441af8b9b",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "environments/force.txt",
+    "bytes": 206,
+    "sha256": "a5414c89dc34549bb4fcaeac1fcf0327a542a31c6eab79c6dd8605aa5ce37b1c",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "environments/kgs.txt",
+    "bytes": 142,
+    "sha256": "53b871400f67e76c97ab6e1c6dfc041989614ef01447721a10caf88ecc150274",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "environments/liuji-main.txt",
+    "bytes": 154,
+    "sha256": "8c741a72c0ec8ba893acde3678939894119b8f4de44ee2bb9c6196e0e068d7eb",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "environments/liuji-main.yml",
+    "bytes": 129,
+    "sha256": "6d6aa4ff6b4f408c15c0e76e849bcaf97891d525eb44217668ff1a71de940e95",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "environments/liuji-matched.txt",
+    "bytes": 239,
+    "sha256": "d66719f9ceff8389c39d1f17390a47749404dd63c1261284fbf3966e09eebc24",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "environments/liuji-matched.yml",
+    "bytes": 134,
+    "sha256": "ba7537e0e44c66538460af4688057bec0debe37228ef676fe5a7674b81b7574d",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "environments/VERIFIED_LIUJI_ENVIRONMENTS.json",
+    "bytes": 824,
+    "sha256": "93314a030b98516f73eeccfbd35ec87d9564281644f5b960e049650308ef956b",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "examples/liuji_input_check.py",
+    "bytes": 2344,
+    "sha256": "6609c4203a651cb7c17e61c544966ab94faea897789ef1a276bbade8c43e5349",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "examples/run_synthetic.py",
+    "bytes": 4186,
+    "sha256": "746208373efa8f9d75c2c09902de3701dd725086298eae2bf2d3d4c57703cddd",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "examples/verified_synthetic/summary.json",
+    "bytes": 1904,
+    "sha256": "136ed7c477f862b60944d7bada66db58c23d9c3e4e107fbdeeaf0461c1656dc1",
+    "license": "MIT",
+    "scope": "Synthetic software test fixture"
+  },
+  {
+    "path": "examples/verified_synthetic/synthetic_blocks.csv",
+    "bytes": 502,
+    "sha256": "85ee12480f3d205ff221586f6df77dc271477afcacc35c3fba62596d0fbd65ec",
+    "license": "MIT",
+    "scope": "Synthetic software test fixture"
+  },
+  {
+    "path": "examples/verified_synthetic/synthetic_points.csv",
+    "bytes": 19472,
+    "sha256": "e678ec44353d361d0ee75c9eae7ee1660f160c6ac6d0b2829eba8e691c244795",
+    "license": "MIT",
+    "scope": "Synthetic software test fixture"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1083,
+    "sha256": "f25755ff55ef7ee40c71c9dcabeaf3b9e8f2f869a20776d218df8e085efe5042",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "LICENSE_STATUS.md",
+    "bytes": 973,
+    "sha256": "3850443ac1e0e45d6a4dd8fe90dc0d750179944174eea689c6403970f28eee77",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "NOTICE.md",
+    "bytes": 1709,
+    "sha256": "585a95106dc02e794a8028a0731d864ccf1a6da75bb744f3439255e548bc04fa",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "provenance/license_revision_qa.json",
+    "bytes": 579,
+    "sha256": "b83e2010147e7bf673f52764316fa114f45dcf269a16e5ad36da035a17be3e2c",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "provenance/s23_original/workflows/force/code/run_external.py",
+    "bytes": 13512,
+    "sha256": "3d773b0d9bd6fd28f36dcc1d4a058b7cbe78bc8edc698d19563a1e009748104b",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "provenance/s23_original/workflows/kgs/code/external_review_trial.py",
+    "bytes": 18671,
+    "sha256": "8a300c0fe026a9096f6990d1e08c3f4b31d093407a94dc94962919106bfe1fb1",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5893,
+    "sha256": "d80b57819480416ad3c31e03d81f52f591f3fe1898a31ef347695a032ed3f5ef",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "release_metadata.json",
+    "bytes": 787,
+    "sha256": "9b6e2dfe3748eea08cc1ac81d16dde669b3e1e1df084e3cc11f4c8ddf92e6d64",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "requirements-force-download.txt",
+    "bytes": 183,
+    "sha256": "dac573a622b92ac0ecc95b0baf35b15e86187cd77bf8b091cf91c44ae5524edd",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 266,
+    "sha256": "934e5eff25afdc4cc5c758ce5a36bf19906942aa3cc908315ad7b81a33da1433",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "SOURCE_PROVENANCE.json",
+    "bytes": 12647,
+    "sha256": "c0f0b82a4794bf36347cbbf375278747901b7f1e8ea84e27c71f7a32d7e48c29",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "tests/independent_oracles.py",
+    "bytes": 3239,
+    "sha256": "1fbb19d37ed411c7dfc634248c381104d603a1685dbd2036fc6e9e22819db00b",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "tests/test_candidate.py",
+    "bytes": 7101,
+    "sha256": "b1791b82706d40b25d54f5d93eab31506a290a437e1189d596d9b542ab2c75da",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "tests/test_liuji_entry.py",
+    "bytes": 9119,
+    "sha256": "9fb77256cd3b5af95395d1f941338c18b21cf822f5008b660406a332da2e0251",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "tests/test_user_flow.py",
+    "bytes": 11390,
+    "sha256": "ad5545a88e7a1509ec14c1a5b540aa6ea91072078d89377a84ffd9e101d97b3b",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 2053,
+    "sha256": "4a4fb4d0005a07ab779daf81b080a8a8e9ed30fb21c0c2e7ee06ac15831deb37",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "tools/compare_arrays.py",
+    "bytes": 1680,
+    "sha256": "d7d3714e84d4dbfc2f078ed4541376494f1b6e5898144977442b7b2b8722550b",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "tools/verify_independent.py",
+    "bytes": 9150,
+    "sha256": "66f568bc39c642c98c1d72abd2d2de2b18ccf9f11916bd31067fc9576ca73846",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "tools/verify_synthetic.py",
+    "bytes": 1154,
+    "sha256": "273f8f3d429191d92f91f3810d59f14b4db7238cfbf197ebc118d8adad7e9ca3",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "VALIDATION_SUMMARY.json",
+    "bytes": 2558,
+    "sha256": "2a6f4a0b9b0b743c04bc5c063ca02ed4d597464d647eee57aceef7056bb1a7a7",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/ANALYSIS_PROTOCOL.md",
+    "bytes": 5296,
+    "sha256": "0249af19962def1948bd1ef7b05105e71d8d32cfca36d205c7e255b59582ef60",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/acquire_force.py",
+    "bytes": 2978,
+    "sha256": "2d50b92baecbb4fa27902b5ae93eef334cb4420fcca692d390968c3ddcc10dd1",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/example_synthetic.py",
+    "bytes": 1015,
+    "sha256": "149b06f3f8ee7cbd28b131128b214e1099de0b3cbaa3514d130a0cb4609c7694",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/external_core.py",
+    "bytes": 3201,
+    "sha256": "4920889944815083ff38b6f1c6421c27f55af0ebc941632d2f004a6d0f50b69b",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/inherited/audit_core.py",
+    "bytes": 9487,
+    "sha256": "55b6fd49f38955a27a180560599c0e6ee1f0aa4a6e2ca098cef92abb1dea8540",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/inherited/historical_rule.py",
+    "bytes": 7648,
+    "sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/prepare_workspace.py",
+    "bytes": 530,
+    "sha256": "918fe427842ac6bf48133ad63d87df9a42cdf16334f4c4bef42852adb95d63ae",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/requirements.txt",
+    "bytes": 144,
+    "sha256": "85aea990bcdff9fc72744776e361a3b33f83107a57268e574d39d1d189f65921",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/review_priority.py",
+    "bytes": 2558,
+    "sha256": "0d58cd0995636493aaef0f5e8e235307169b99abcf836ad7d56b77ed627e0630",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/run_external.py",
+    "bytes": 14623,
+    "sha256": "0d6319c20b5b0f3afa95b001b1aa8966b9834a83b9a91021a7c34afa48d716d9",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/verify_counts.py",
+    "bytes": 1413,
+    "sha256": "9494f5fd0e72c63dc2475321755776dec87ce8679060c42fa662d1c69b95d1fe",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/code/verify_external.py",
+    "bytes": 5848,
+    "sha256": "835381f6a18dff98c3d1dac4f41b90f839f8b1969f4ab64b63466dcffb6c283e",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/qa/SOURCE_DOWNLOAD.json",
+    "bytes": 571,
+    "sha256": "b90ab0031cc7c1c50b01890b1d367257138bbffec1b88cdd91f935f9db77a14c",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/force/sources/DATASET_SELECTION.md",
+    "bytes": 3491,
+    "sha256": "fdeccaf1dc5d4b94d47757ae4b4febca24b7fbe125e9a89bb80a6b906b664637",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/kgs/code/external_core.py",
+    "bytes": 3201,
+    "sha256": "4920889944815083ff38b6f1c6421c27f55af0ebc941632d2f004a6d0f50b69b",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/kgs/code/external_review_trial.py",
+    "bytes": 19466,
+    "sha256": "3c24f2ad9f4145461a67265e9c66c1faf73a9ebbbe5bbf601fa3add3b5819c64",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/kgs/code/review_priority.py",
+    "bytes": 2558,
+    "sha256": "0d58cd0995636493aaef0f5e8e235307169b99abcf836ad7d56b77ed627e0630",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/kgs/code/verify_external_trial.py",
+    "bytes": 6391,
+    "sha256": "d0c2902f298ec7cfd4189c13167f3d34f273b3c60d328c8e5ebac3e8c3e68a94",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/kgs/requirements.original.txt",
+    "bytes": 47,
+    "sha256": "95f3be5f14b1c5df3429e677d5d4b67fbef46373ddd55d2ee791e1ee4b8e2e62",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/kgs/source_tools/prepare_kgs.py",
+    "bytes": 6278,
+    "sha256": "41d0188147b55605bdee566055dd48f90f032c78409ac0e2373eb00c9d7f59ec",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/kgs/source_tools/README_INPUTS.txt",
+    "bytes": 573,
+    "sha256": "635c740a79ec5e7284356930869d38e22f5f6d99f51f401f1bb9b5b011d84055",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/kgs/source_tools/scan_kgs_archive.py",
+    "bytes": 4690,
+    "sha256": "3231b55261472056f77d323bb3e6d76254e00c0ddd94040b056603843407f8e2",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/config/example.json",
+    "bytes": 335,
+    "sha256": "bfa9cf0bffcf71f422524111c867a81687023e90d18e3a90addfb63f6325216e",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/config/feature_contract.json",
+    "bytes": 1628,
+    "sha256": "8ee3e08214a098e872cc83cbec9e5090fb862079afd50a61500eadd1ed566cb5",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/config/paper_protocol.json",
+    "bytes": 689,
+    "sha256": "1fa7f90f3ec284e1b765478fcab621673f641b7ebf32046d2b18dfc0f7a7eac4",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/run.py",
+    "bytes": 18619,
+    "sha256": "c5f207fcf34e5018cca2fc9965f5d3c5e2f275ace0466c234590b923c7132235",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/adapters/_diag_mechanism_intervals.py",
+    "bytes": 8878,
+    "sha256": "47d9e5fafcf42e80794ef91d0a09774c49544ca8e1c8599f9999aed09794b6f0",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/adapters/_run_control_export_fixed.py",
+    "bytes": 13539,
+    "sha256": "99f3f98003378fd6c8fa946987bed7021b94f39b7a526a2d5f76d575b2994fe2",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/ijcg_analysis/common.py",
+    "bytes": 9878,
+    "sha256": "de7fab0afbd7403780d02d1a80802ddd1dc3c0528b0eaf1701f8a4b2af13eae5",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/ijcg_analysis/nrr_stage_common.py",
+    "bytes": 18133,
+    "sha256": "13f54fdb15f50f1653e727f7e21e450ca6b2d9b0aa1c380a4b5029bf99726b95",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/ijcg_analysis/retained_metrics.py",
+    "bytes": 3316,
+    "sha256": "a9848b78300ee02afd543c2c99a6de4e1b2b43da10d5402bfdc84f710ab29a7b",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/ijcg_analysis/run_nrr_stage1.py",
+    "bytes": 26059,
+    "sha256": "df4a004cf2100c14db1a676a8ab68044bb27ce4cd98476466dffa7595a9af18e",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/ijcg_analysis/run_nrr_stage2.py",
+    "bytes": 34444,
+    "sha256": "053f716a2c9888432a644f88b627df25e5ad2938779bd669bda3a7d0691f7e98",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s12/code/audit_core.py",
+    "bytes": 9487,
+    "sha256": "55b6fd49f38955a27a180560599c0e6ee1f0aa4a6e2ca098cef92abb1dea8540",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s12/code/historical_rule.py",
+    "bytes": 7648,
+    "sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s12/code/legacy_common.py",
+    "bytes": 9878,
+    "sha256": "de7fab0afbd7403780d02d1a80802ddd1dc3c0528b0eaf1701f8a4b2af13eae5",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s12/scripts/run_analysis.py",
+    "bytes": 20065,
+    "sha256": "6890293a0a7f3bf4265552285d3a263490e62a8a1b93ab8847d85d8436aaed36",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s17/run_s17.py",
+    "bytes": 12986,
+    "sha256": "0c1b3eee9810d9636f1194433e8c45ca3d7af761af90b9a985e387752afb9c4e",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s6/build_major_revision_evidence.py",
+    "bytes": 40733,
+    "sha256": "8534a16991858461d8e6a866811ce0f09cf3750ca64241a55324e10c15eaaec7",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s6/build_submission_readiness_evidence.py",
+    "bytes": 30133,
+    "sha256": "7dbf5afca6597b803c6daee96a670c1d89308a9b88ecbd9d805bedaa9c12c705",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  },
+  {
+    "path": "workflows/liuji/source/originals/s6/operational_rule.py",
+    "bytes": 7648,
+    "sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75",
+    "license": "MIT",
+    "scope": "Author-owned software/documentation/configuration"
+  }
+]

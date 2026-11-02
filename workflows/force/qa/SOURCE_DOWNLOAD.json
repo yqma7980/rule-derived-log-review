@@ -1,0 +1,15 @@
+{
+  "url": "https://raw.githubusercontent.com/bolgebrygg/Force-2020-Machine-Learning-competition/c8d01ee92c1c8e1ecba36f96cca6ea7b689338a1/lithology_competition/data/train.zip",
+  "commit": "c8d01ee92c1c8e1ecba36f96cca6ea7b689338a1",
+  "dataset_doi": "10.5281/zenodo.4351156",
+  "scope": "Organizer train.zip only; not the 118-well LAS release",
+  "bytes": 91653972,
+  "sha256": "e996c8466f2d0dc7116daa71485cc90c31fcfac6345a5bb33165026478b642e9",
+  "contents": [
+    {
+      "name": "train.csv",
+      "size": 280485502,
+      "crc32": 3148016928
+    }
+  ]
+}

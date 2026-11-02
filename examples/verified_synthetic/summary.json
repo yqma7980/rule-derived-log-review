@@ -1,0 +1,85 @@
+{
+  "kind": "GENERATED SYNTHETIC DEMONSTRATION; NOT MANUSCRIPT EVIDENCE",
+  "rows": 200,
+  "native_step_m": 0.152,
+  "stride": 5,
+  "phase": 0,
+  "comparator": "processed rule with every 17th label rotated; not a trained model",
+  "ranking": "processed-curve perturbation fraction only; no native target in ranking",
+  "paired_counts": {
+    "A": 143,
+    "B": 6,
+    "C": 45,
+    "D": 6,
+    "E": 0
+  },
+  "rule_changed": 51,
+  "comparator_vs_native": 51,
+  "identity_difference": 0,
+  "zero_stride_changed_rows": 0,
+  "constant_controls": [
+    {
+      "GR_API": 50.0,
+      "DEN_g_cm3": 2.4,
+      "expected_state": 2,
+      "rows": 80
+    },
+    {
+      "GR_API": 50.0,
+      "DEN_g_cm3": 1.5,
+      "expected_state": 0,
+      "rows": 80
+    },
+    {
+      "GR_API": 95.0,
+      "DEN_g_cm3": 2.4,
+      "expected_state": 5,
+      "rows": 80
+    }
+  ],
+  "feature_shape": [
+    200,
+    26
+  ],
+  "actual_feature_spans_m": [
+    0.304,
+    0.608,
+    0.9119999999999999
+  ],
+  "budget_results": {
+    "0.0": {
+      "budget_rows": 0,
+      "reviewed_rows": 0,
+      "target_rows": 51,
+      "captured_rows": 0,
+      "capture_rate": 0.0,
+      "review_yield": null
+    },
+    "0.1": {
+      "budget_rows": 20,
+      "reviewed_rows": 20,
+      "target_rows": 51,
+      "captured_rows": 6,
+      "capture_rate": 0.11764705882352941,
+      "review_yield": 0.3
+    },
+    "0.13": {
+      "budget_rows": 26,
+      "reviewed_rows": 26,
+      "target_rows": 51,
+      "captured_rows": 7,
+      "capture_rate": 0.13725490196078433,
+      "review_yield": 0.2692307692307692
+    },
+    "1.0": {
+      "budget_rows": 200,
+      "reviewed_rows": 200,
+      "target_rows": 51,
+      "captured_rows": 51,
+      "capture_rate": 1.0,
+      "review_yield": 0.255
+    }
+  },
+  "models_fitted": 0,
+  "network_access_required": false
+}

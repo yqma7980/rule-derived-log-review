@@ -1,0 +1,277 @@
+{
+  "scientific_files": [
+    {
+      "path": "examples/run_synthetic.py",
+      "source_sha256": "746208373efa8f9d75c2c09902de3701dd725086298eae2bf2d3d4c57703cddd",
+      "current_sha256": "746208373efa8f9d75c2c09902de3701dd725086298eae2bf2d3d4c57703cddd",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "tests/independent_oracles.py",
+      "source_sha256": "1fbb19d37ed411c7dfc634248c381104d603a1685dbd2036fc6e9e22819db00b",
+      "current_sha256": "1fbb19d37ed411c7dfc634248c381104d603a1685dbd2036fc6e9e22819db00b",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "tests/test_candidate.py",
+      "source_sha256": "b1791b82706d40b25d54f5d93eab31506a290a437e1189d596d9b542ab2c75da",
+      "current_sha256": "b1791b82706d40b25d54f5d93eab31506a290a437e1189d596d9b542ab2c75da",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "tests/test_user_flow.py",
+      "source_sha256": "ad5545a88e7a1509ec14c1a5b540aa6ea91072078d89377a84ffd9e101d97b3b",
+      "current_sha256": "ad5545a88e7a1509ec14c1a5b540aa6ea91072078d89377a84ffd9e101d97b3b",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "tools/verify_independent.py",
+      "source_sha256": "66f568bc39c642c98c1d72abd2d2de2b18ccf9f11916bd31067fc9576ca73846",
+      "current_sha256": "66f568bc39c642c98c1d72abd2d2de2b18ccf9f11916bd31067fc9576ca73846",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/acquire_force.py",
+      "source_sha256": "2d50b92baecbb4fa27902b5ae93eef334cb4420fcca692d390968c3ddcc10dd1",
+      "current_sha256": "2d50b92baecbb4fa27902b5ae93eef334cb4420fcca692d390968c3ddcc10dd1",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/example_synthetic.py",
+      "source_sha256": "149b06f3f8ee7cbd28b131128b214e1099de0b3cbaa3514d130a0cb4609c7694",
+      "current_sha256": "149b06f3f8ee7cbd28b131128b214e1099de0b3cbaa3514d130a0cb4609c7694",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/external_core.py",
+      "source_sha256": "4920889944815083ff38b6f1c6421c27f55af0ebc941632d2f004a6d0f50b69b",
+      "current_sha256": "4920889944815083ff38b6f1c6421c27f55af0ebc941632d2f004a6d0f50b69b",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/prepare_workspace.py",
+      "source_sha256": "918fe427842ac6bf48133ad63d87df9a42cdf16334f4c4bef42852adb95d63ae",
+      "current_sha256": "918fe427842ac6bf48133ad63d87df9a42cdf16334f4c4bef42852adb95d63ae",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/review_priority.py",
+      "source_sha256": "0d58cd0995636493aaef0f5e8e235307169b99abcf836ad7d56b77ed627e0630",
+      "current_sha256": "0d58cd0995636493aaef0f5e8e235307169b99abcf836ad7d56b77ed627e0630",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/run_external.py",
+      "source_sha256": "0d6319c20b5b0f3afa95b001b1aa8966b9834a83b9a91021a7c34afa48d716d9",
+      "current_sha256": "0d6319c20b5b0f3afa95b001b1aa8966b9834a83b9a91021a7c34afa48d716d9",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/verify_counts.py",
+      "source_sha256": "9494f5fd0e72c63dc2475321755776dec87ce8679060c42fa662d1c69b95d1fe",
+      "current_sha256": "9494f5fd0e72c63dc2475321755776dec87ce8679060c42fa662d1c69b95d1fe",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/verify_external.py",
+      "source_sha256": "835381f6a18dff98c3d1dac4f41b90f839f8b1969f4ab64b63466dcffb6c283e",
+      "current_sha256": "835381f6a18dff98c3d1dac4f41b90f839f8b1969f4ab64b63466dcffb6c283e",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/inherited/audit_core.py",
+      "source_sha256": "55b6fd49f38955a27a180560599c0e6ee1f0aa4a6e2ca098cef92abb1dea8540",
+      "current_sha256": "55b6fd49f38955a27a180560599c0e6ee1f0aa4a6e2ca098cef92abb1dea8540",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/force/code/inherited/historical_rule.py",
+      "source_sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75",
+      "current_sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/kgs/code/external_core.py",
+      "source_sha256": "4920889944815083ff38b6f1c6421c27f55af0ebc941632d2f004a6d0f50b69b",
+      "current_sha256": "4920889944815083ff38b6f1c6421c27f55af0ebc941632d2f004a6d0f50b69b",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/kgs/code/external_review_trial.py",
+      "source_sha256": "3c24f2ad9f4145461a67265e9c66c1faf73a9ebbbe5bbf601fa3add3b5819c64",
+      "current_sha256": "3c24f2ad9f4145461a67265e9c66c1faf73a9ebbbe5bbf601fa3add3b5819c64",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/kgs/code/review_priority.py",
+      "source_sha256": "0d58cd0995636493aaef0f5e8e235307169b99abcf836ad7d56b77ed627e0630",
+      "current_sha256": "0d58cd0995636493aaef0f5e8e235307169b99abcf836ad7d56b77ed627e0630",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/kgs/code/verify_external_trial.py",
+      "source_sha256": "d0c2902f298ec7cfd4189c13167f3d34f273b3c60d328c8e5ebac3e8c3e68a94",
+      "current_sha256": "d0c2902f298ec7cfd4189c13167f3d34f273b3c60d328c8e5ebac3e8c3e68a94",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/kgs/source_tools/prepare_kgs.py",
+      "source_sha256": "41d0188147b55605bdee566055dd48f90f032c78409ac0e2373eb00c9d7f59ec",
+      "current_sha256": "41d0188147b55605bdee566055dd48f90f032c78409ac0e2373eb00c9d7f59ec",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/kgs/source_tools/scan_kgs_archive.py",
+      "source_sha256": "3231b55261472056f77d323bb3e6d76254e00c0ddd94040b056603843407f8e2",
+      "current_sha256": "3231b55261472056f77d323bb3e6d76254e00c0ddd94040b056603843407f8e2",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/adapters/_diag_mechanism_intervals.py",
+      "source_sha256": "5b95eb088e4db67e4906444a03f7317fbe0be03265932dbb75df0a9eee5d00c8",
+      "current_sha256": "47d9e5fafcf42e80794ef91d0a09774c49544ca8e1c8599f9999aed09794b6f0",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": false
+    },
+    {
+      "path": "workflows/liuji/source/adapters/_run_control_export_fixed.py",
+      "source_sha256": "db6adbb2a7d4ab164f54d9fa4c791aa109e11e132b6c9b7a17fb373a91476a8c",
+      "current_sha256": "99f3f98003378fd6c8fa946987bed7021b94f39b7a526a2d5f76d575b2994fe2",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": false
+    },
+    {
+      "path": "workflows/liuji/source/originals/ijcg_analysis/common.py",
+      "source_sha256": "de7fab0afbd7403780d02d1a80802ddd1dc3c0528b0eaf1701f8a4b2af13eae5",
+      "current_sha256": "de7fab0afbd7403780d02d1a80802ddd1dc3c0528b0eaf1701f8a4b2af13eae5",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/originals/ijcg_analysis/nrr_stage_common.py",
+      "source_sha256": "678005bc46759c29eb23b7792bf99262eb28b5d9a1fa8fd97995cca5d6e448b6",
+      "current_sha256": "13f54fdb15f50f1653e727f7e21e450ca6b2d9b0aa1c380a4b5029bf99726b95",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": false
+    },
+    {
+      "path": "workflows/liuji/source/originals/ijcg_analysis/run_nrr_stage1.py",
+      "source_sha256": "d73af2acd75af7d3783ed53901403593dbf192102c7624a28f1fe742652c6f36",
+      "current_sha256": "df4a004cf2100c14db1a676a8ab68044bb27ce4cd98476466dffa7595a9af18e",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": false
+    },
+    {
+      "path": "workflows/liuji/source/originals/ijcg_analysis/run_nrr_stage2.py",
+      "source_sha256": "053f716a2c9888432a644f88b627df25e5ad2938779bd669bda3a7d0691f7e98",
+      "current_sha256": "053f716a2c9888432a644f88b627df25e5ad2938779bd669bda3a7d0691f7e98",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/originals/s12/code/audit_core.py",
+      "source_sha256": "55b6fd49f38955a27a180560599c0e6ee1f0aa4a6e2ca098cef92abb1dea8540",
+      "current_sha256": "55b6fd49f38955a27a180560599c0e6ee1f0aa4a6e2ca098cef92abb1dea8540",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/originals/s12/code/historical_rule.py",
+      "source_sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75",
+      "current_sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/originals/s12/code/legacy_common.py",
+      "source_sha256": "de7fab0afbd7403780d02d1a80802ddd1dc3c0528b0eaf1701f8a4b2af13eae5",
+      "current_sha256": "de7fab0afbd7403780d02d1a80802ddd1dc3c0528b0eaf1701f8a4b2af13eae5",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/originals/s12/scripts/run_analysis.py",
+      "source_sha256": "6890293a0a7f3bf4265552285d3a263490e62a8a1b93ab8847d85d8436aaed36",
+      "current_sha256": "6890293a0a7f3bf4265552285d3a263490e62a8a1b93ab8847d85d8436aaed36",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/originals/s17/run_s17.py",
+      "source_sha256": "0c1b3eee9810d9636f1194433e8c45ca3d7af761af90b9a985e387752afb9c4e",
+      "current_sha256": "0c1b3eee9810d9636f1194433e8c45ca3d7af761af90b9a985e387752afb9c4e",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/originals/s6/build_major_revision_evidence.py",
+      "source_sha256": "8534a16991858461d8e6a866811ce0f09cf3750ca64241a55324e10c15eaaec7",
+      "current_sha256": "8534a16991858461d8e6a866811ce0f09cf3750ca64241a55324e10c15eaaec7",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/originals/s6/build_submission_readiness_evidence.py",
+      "source_sha256": "7dbf5afca6597b803c6daee96a670c1d89308a9b88ecbd9d805bedaa9c12c705",
+      "current_sha256": "7dbf5afca6597b803c6daee96a670c1d89308a9b88ecbd9d805bedaa9c12c705",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    },
+    {
+      "path": "workflows/liuji/source/originals/s6/operational_rule.py",
+      "source_sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75",
+      "current_sha256": "e0e57ef7a423a7003ffb7ba464bb40a32e33deed5eda3914db6f7abd93046f75",
+      "executable_AST_equal_after_documented_import_normalization": true,
+      "bytes_equal": true
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "function": "minority_recall",
+      "exact_AST_equal": true
+    },
+    {
+      "function": "boundary_positions",
+      "exact_AST_equal": true
+    },
+    {
+      "function": "match_boundaries",
+      "exact_AST_equal": true
+    },
+    {
+      "function": "vertical_consistency_metrics",
+      "exact_AST_equal": true
+    },
+    {
+      "function": "evaluate_well",
+      "exact_AST_equal": true
+    }
+  ],
+  "allowed_edits": [
+    "English comments/docstrings",
+    "defer unused geology import",
+    "redirect five unchanged metrics to bundled module"
+  ],
+  "new_training_in_this_revision": false
+}

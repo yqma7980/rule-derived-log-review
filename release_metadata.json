@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "package_name": "rule-derived-log-review",
+  "version": "1.0.0",
+  "license": "MIT",
+  "license_scope": "Included author-owned software and synthetic test fixtures; see NOTICE.md",
+  "release_date": "2026-11-02",
+  "repository_owner": "yqma7980",
+  "repository_name": "rule-derived-log-review",
+  "repository_url": "https://github.com/yqma7980/rule-derived-log-review",
+  "git_ref": "refs/tags/v1.0.0",
+  "version_url": "https://github.com/yqma7980/rule-derived-log-review/tree/v1.0.0",
+  "commit_resolution": "Resolve the fixed tag; publication readback evidence is external to its own immutable commit.",
+  "journal_submission_status": "Not submitted by this release workflow",
+  "research_result_tables_bundled": false,
+  "controlled_data_bundled": false
+}
