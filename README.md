@@ -14,6 +14,15 @@ Fixed software version:
 (`refs/tags/v1.0.0`). See [release metadata](release_metadata.json).
 The manuscript is not represented as accepted or published by the journal.
 
+## Permanent software archive
+
+The unchanged v1.0.0 software snapshot is archived at [Zenodo DOI 10.5281/zenodo.23949723](https://doi.org/10.5281/zenodo.23949723). The archive preserves the fixed tag and commit
+`aebadf57c0380a75d3b47dc8a4ce36e5d052f9a7`. Its two downloadable files were
+verified anonymously against the release ZIP and SHA-256 checksum. This DOI
+identifies software and documentation, not controlled Liujia measurements or
+a manuscript preprint. Subsequent README/manifest updates do not alter the
+immutable v1.0.0 tag.
+
 ## Install and run offline examples
 
 Start with Python **3.12.10**. From this package directory, on Windows:
